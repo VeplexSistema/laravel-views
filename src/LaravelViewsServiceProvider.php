@@ -37,6 +37,7 @@ class LaravelViewsServiceProvider extends ServiceProvider
     ];
 
     /**
+     * Mudei um comentário
      * Register services.
      *
      * @return void
